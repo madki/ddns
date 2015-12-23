@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DDNS</string>
+    <string name="action_settings">Settings</string>
+    <string name="namecheap_details">Namecheap details:</string>
+    <string name="description">The following are the sample details for updating moto.madki.xyz with the ip of this phone</string>
+    <string name="domain">Domain</string>
+    <string name="sample_domain">madki.xyz</string>
+    <string name="host">Host</string>
+    <string name="sample_host">moto</string>
+    <string name="password">Password</string>
+    <string name="current_ip">Current ip:</string>
+</resources>
